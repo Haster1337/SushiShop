@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sushi-shop/static/css/main.4f8dc067.css",
-    "main.js": "/Sushi-shop/static/js/main.8c00cc42.js",
-    "static/media/sushi.jpg": "/Sushi-shop/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
-    "index.html": "/Sushi-shop/index.html",
-    "main.4f8dc067.css.map": "/Sushi-shop/static/css/main.4f8dc067.css.map",
-    "main.8c00cc42.js.map": "/Sushi-shop/static/js/main.8c00cc42.js.map"
+    "main.css": "/SushiShop/static/css/main.4f8dc067.css",
+    "main.js": "/SushiShop/static/js/main.132bcb57.js",
+    "static/media/sushi.jpg": "/SushiShop/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/SushiShop/index.html",
+    "main.4f8dc067.css.map": "/SushiShop/static/css/main.4f8dc067.css.map",
+    "main.132bcb57.js.map": "/SushiShop/static/js/main.132bcb57.js.map"
   },
   "entrypoints": [
     "static/css/main.4f8dc067.css",
-    "static/js/main.8c00cc42.js"
+    "static/js/main.132bcb57.js"
   ]
 }
